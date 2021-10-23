@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * CS 4365.002 Homework 1: Search Algorithms By: Nasif Mahmood This program will
+ * By: Nasif Mahmood This program will
  * perform the 8-puzzle problem using different search methods These include:
  * Depth-First Search, Iterative Deepening Search and A* search with two
  * different heuristics The heuristics for the A* algorithm are the number of
@@ -11,7 +11,7 @@ import java.util.Scanner;
  * limit of depth 10 which means the Nodes will be cut off if they are depth 11
  * or higher
  * 
- * This class is the main method to
+ * This class is the main method to run the program
  */
 public class App {
     public static void main(String[] args) throws Exception {
