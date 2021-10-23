@@ -3,14 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * By: Nasif Mahmood This program will
- * perform the 8-puzzle problem using different search methods These include:
- * Depth-First Search, Iterative Deepening Search and A* search with two
- * different heuristics The heuristics for the A* algorithm are the number of
- * tiles in the wrong place and Manhattan distance Every search tree has a hard
- * limit of depth 10 which means the Nodes will be cut off if they are depth 11
- * or higher
- * 
+ * By: Nasif Mahmood 
  * This class is the main method to run the program
  */
 public class App {
