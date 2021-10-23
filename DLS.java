@@ -4,9 +4,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * This class will be used for DFS and IDS
- * It is called DLS because the assignment has a hard depth limit of 10
- * It performs Depth-Limited search
+ * This class will be used for DLS and IDS
  */
 public class DLS {
 
